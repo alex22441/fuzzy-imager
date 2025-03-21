@@ -4,3 +4,8 @@ opencv-python
 pillow
 realesrgan
 numpy==1.26.4
+fastapi
+uvicorn
+realesrgan
+opencv-python
+numpy<2
